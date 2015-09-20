@@ -1,5 +1,6 @@
-.vs
+.vs/
 obj/
 bin/[Dd]ebug
 *.vshost.*
+*.pdb
 Thumbs.db
