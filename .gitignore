@@ -1,4 +1,5 @@
 .vs
 obj/
-bin/
+bin/[Dd]ebug
+*.vshost.*
 Thumbs.db
