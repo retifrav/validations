@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Проверка ИНН, КПП, ОГРН")]
-[assembly: AssemblyCopyright("retif")]
+[assembly: AssemblyCopyright("retif (retifrav@gmail.com)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
