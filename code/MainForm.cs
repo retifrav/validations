@@ -162,7 +162,7 @@ namespace validations
         /// <returns>true - если проходит проверку, false - если не проходит проверку</returns>
         public bool check_KPP(string KPPstring)
         {
-            return new Regex(@"\d{4}[\dA-Z][\dA-Z]\d{3}").IsMatch(KPPstring);
+            return new Regex(@"^\d{4}[\dA-Z][\dA-Z]\d{3}$").IsMatch(KPPstring);
         }
         #endregion
 
